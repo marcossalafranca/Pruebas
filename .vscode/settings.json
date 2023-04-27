@@ -1,0 +1,5 @@
+{
+    "gitlens.terminalLinks.enabled": true,
+    "gitlens.graph.layout": "editor",
+    "gitlens.graph.statusBar.enabled": false
+}
